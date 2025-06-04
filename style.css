@@ -1,0 +1,92 @@
+.bg-container1 {
+    background-image: url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    padding: 20px;
+}
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    background-size: cover;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.main-heading {
+    color: #217075;
+    font-size: 40px;
+    margin: 15px 0;
+}
+
+.button {
+    color: white;
+    height: 36px;
+    width: 138px;
+    font-weight: bold;
+    background-color: #57e6e1;
+    border-radius: 15px;
+    border-width: 0px;
+    display: block;
+    margin: 10px auto;
+}
+
+.card {
+    background-color: white;
+    border-radius: 12px;
+    padding: 10px;
+    margin: 15px;
+}
+
+.card-heading {
+    font-family: "Roboto", sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.card-paragraph {
+    text-align: left;
+    font-family: "Roboto", sans-serif;
+}
+
+.image {
+    height: 100px;
+    width: 120px;
+    object-fit: cover;
+    margin-left: auto;
+}
+
+.heading {
+    font-family: "Roboto", sans-serif;
+    font-size: 28px;
+    color: white;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.detailed-view-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    background-size: cover;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.detailed-view-heading {
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+.paragraph {
+    color: #6c6b70;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+}
+
+.button2 {
+    display: block;
+    margin: 20px auto;
+    width: 30vw;
+}
